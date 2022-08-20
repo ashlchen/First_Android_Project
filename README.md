@@ -10,9 +10,9 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 
 
@@ -33,7 +33,7 @@ The project will be further developed in the near future!
 
 ## License
 
-    Copyright [Ashley Chen] [name of copyright owner]
+    Copyright [Ashley Chen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
